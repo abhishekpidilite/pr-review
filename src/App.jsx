@@ -26,7 +26,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        Amith the Great
+        Amith the Great push
       </p>
     </>
   )
